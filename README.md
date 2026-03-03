@@ -1,16 +1,29 @@
-# React + Vite
+Sistema Integral Académico
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Proyecto desarrollado como evidencia académica utilizando React.
 
-Currently, two official plugins are available:
+Descripción
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+El Sistema Integral Académico es una aplicación web básica que simula la estructura inicial de una plataforma académica.  
+Incluye componentes organizados y reutilizables desarrollados en React.
 
-## React Compiler
+El objetivo del proyecto es aplicar buenas prácticas de desarrollo frontend y uso de herramientas de versionamiento.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Componentes desarrollados
 
-## Expanding the ESLint configuration
+Navbar (Barra de navegación superior)
+Sidebar (Menú lateral)
+LoginForm (Formulario de inicio de sesión)
+Button (Botón reutilizable)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Cada componente está separado en su archivo correspondiente dentro de la carpeta `components`.
+
+Tecnologías utilizadas
+
+- React
+- JavaScript
+- Vite
+- CSS
+- GitHub
+
+Elaborado por: Carlos David Peña Veloza #3070410
