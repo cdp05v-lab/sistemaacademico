@@ -11,10 +11,14 @@ El objetivo del proyecto es aplicar buenas prácticas de desarrollo frontend y u
 
 Componentes desarrollados
 
-Navbar (Barra de navegación superior)
-Sidebar (Menú lateral)
-LoginForm (Formulario de inicio de sesión)
-Button (Botón reutilizable)
+## 📋 Componentes e Interfaces
+
+| Componente | Función en la Interfaz |
+|------------|------------------------|
+| Navbar     | Parte superior de la página |
+| Sidebar    | Menú lateral del sistema |
+| LoginForm  | Formulario de inicio de sesión |
+| Button     | Botón para ejecutar acciones |
 
 Cada componente está separado en su archivo correspondiente dentro de la carpeta `components`.
 
