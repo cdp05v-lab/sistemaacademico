@@ -9,9 +9,7 @@ Incluye componentes organizados y reutilizables desarrollados en React.
 
 El objetivo del proyecto es aplicar buenas prácticas de desarrollo frontend y uso de herramientas de versionamiento.
 
-Componentes desarrollados
-
-## 📋 Componentes e Interfaces
+ Componentes e Interfaces
 
 | Componente | Función en la Interfaz |
 |------------|------------------------|
